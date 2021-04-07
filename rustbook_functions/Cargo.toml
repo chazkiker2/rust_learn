@@ -1,5 +1,5 @@
 [package]
-name = "rustlings"
+name = "rustbook_functions"
 version = "0.1.0"
 authors = ["chaz-kiker <chaz-kiker@lambdastudents.com>"]
 edition = "2018"

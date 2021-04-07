@@ -1,7 +1,11 @@
 [workspace]
 members = [
     "rustbook_main",
-    "rustlings",
+    "rustbook_ownership",
+    "rustbook_guessing_game",
+    "rustbook_branches",
+    "rustbook_functions",
+    "rustbook_variables",
 ]
 name = "rust_learn"
 version = "0.1.0"
